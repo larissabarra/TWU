@@ -1,4 +1,4 @@
-package introdutory.diamond;
+package introductory.diamond;
 
 import java.util.Scanner;
 

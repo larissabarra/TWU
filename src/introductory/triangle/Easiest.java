@@ -1,4 +1,4 @@
-package introdutory.triangle;
+package introductory.triangle;
 
 public class Easiest {
 

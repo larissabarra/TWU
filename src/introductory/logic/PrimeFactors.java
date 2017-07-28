@@ -1,4 +1,4 @@
-package introdutory.logic;
+package introductory.logic;
 
 import java.util.Scanner;
 

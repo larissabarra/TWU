@@ -1,4 +1,4 @@
-package introdutory.logic;
+package introductory.logic;
 
 public class FizzBuzz {
 
